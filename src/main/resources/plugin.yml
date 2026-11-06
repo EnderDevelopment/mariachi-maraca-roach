@@ -1,0 +1,14 @@
+name: MariachiMenagerie
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  maraca:
+    description: Gives you a Mexican-style maraca.
+    usage: /maraca
+  cockroach:
+    description: Summons a cockroach for the maraca interaction.
+    usage: /cockroach
+  persiancat:
+    description: Summons a Persian cat with a lying and scratching animation.
+    usage: /persiancat
